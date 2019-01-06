@@ -7,11 +7,11 @@ instead of Redux.
 This app was created with create-react-app
 and initial set-up by npm run eject.
 
-Additional set up was by installing
+Additional setup was by installing:
 ```
 npm install --save-dev @babel/plugin-proposal-decorators
 ```
-and settin up package.json plugins section
+and setting up package.json plugins section
 ```
 "plugins": [
       [
